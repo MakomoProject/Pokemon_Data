@@ -3,13 +3,13 @@
     "id": 0,
     "codeName": "hardy",
     "name": "@string/hardy",
-    "effect": {}
+    "effects": {}
   },
   {
     "id": 1,
     "codeName": "lonely",
     "name": "@string/lonely",
-    "effect": {
+    "effects": {
       "atk": 110,
       "def": 90
     }
@@ -18,7 +18,7 @@
     "id": 2,
     "codeName": "brave",
     "name": "@string/brave",
-    "effect": {
+    "effects": {
       "atk": 110,
       "speed": 90
     }
@@ -27,7 +27,7 @@
     "id": 3,
     "codeName": "adamant",
     "name": "@string/adamant",
-    "effect": {
+    "effects": {
       "atk": 110,
       "spAtk": 90
     }
@@ -36,7 +36,7 @@
     "id": 4,
     "codeName": "naughty",
     "name": "@string/naughty",
-    "effect": {
+    "effects": {
       "atk": 110,
       "spDef": 90
     }
@@ -45,7 +45,7 @@
     "id": 5,
     "codeName": "bold",
     "name": "@string/bold",
-    "effect": {
+    "effects": {
       "def": 110,
       "atk": 90
     }
@@ -54,13 +54,13 @@
     "id": 6,
     "codeName": "docile",
     "name": "@string/docile",
-    "effect": {}
+    "effects": {}
   },
   {
     "id": 7,
     "codeName": "relaxed",
     "name": "@string/relaxed",
-    "effect": {
+    "effects": {
       "def": 110,
       "speed": 90
     }
@@ -69,7 +69,7 @@
     "id": 8,
     "codeName": "impish",
     "name": "@string/impish",
-    "effect": {
+    "effects": {
       "def": 110,
       "spAtk": 90
     }
@@ -78,7 +78,7 @@
     "id": 9,
     "codeName": "lax",
     "name": "@string/lax",
-    "effect": {
+    "effects": {
       "def": 110,
       "spDef": 90
     }
@@ -87,7 +87,7 @@
     "id": 10,
     "codeName": "timid",
     "name": "@string/timid",
-    "effect": {
+    "effects": {
       "speed": 110,
       "atk": 90
     }
@@ -96,7 +96,7 @@
     "id": 11,
     "codeName": "hasty",
     "name": "@string/hasty",
-    "effect": {
+    "effects": {
       "speed": 110,
       "def": 90
     }
@@ -105,13 +105,13 @@
     "id": 12,
     "codeName": "serious",
     "name": "@string/serious",
-    "effect": {}
+    "effects": {}
   },
   {
     "id": 13,
     "codeName": "jolly",
     "name": "@string/jolly",
-    "effect": {
+    "effects": {
       "speed": 110,
       "spAtk": 90
     }
@@ -120,7 +120,7 @@
     "id": 14,
     "codeName": "naive",
     "name": "@string/naive",
-    "effect": {
+    "effects": {
       "speed": 110,
       "spDef": 90
     }
@@ -129,7 +129,7 @@
     "id": 15,
     "codeName": "modest",
     "name": "@string/modest",
-    "effect": {
+    "effects": {
       "spAtk": 110,
       "atk": 90
     }
@@ -138,7 +138,7 @@
     "id": 16,
     "codeName": "mild",
     "name": "@string/mild",
-    "effect": {
+    "effects": {
       "spAtk": 110,
       "def": 90
     }
@@ -147,7 +147,7 @@
     "id": 17,
     "codeName": "quiet",
     "name": "@string/quiet",
-    "effect": {
+    "effects": {
       "spAtk": 110,
       "speed": 90
     }
@@ -156,13 +156,13 @@
     "id": 18,
     "codeName": "bashful",
     "name": "@string/bashful",
-    "effect": {}
+    "effects": {}
   },
   {
     "id": 19,
     "codeName": "rash",
     "name": "@string/rash",
-    "effect": {
+    "effects": {
       "spAtk": 110,
       "spDef": 90
     }
@@ -171,7 +171,7 @@
     "id": 20,
     "codeName": "calm",
     "name": "@string/calm",
-    "effect": {
+    "effects": {
       "spDef": 110,
       "atk": 90
     }
@@ -180,7 +180,7 @@
     "id": 21,
     "codeName": "gentle",
     "name": "@string/gentle",
-    "effect": {
+    "effects": {
       "spDef": 110,
       "def": 90
     }
@@ -189,7 +189,7 @@
     "id": 22,
     "codeName": "sassy",
     "name": "@string/sassy",
-    "effect": {
+    "effects": {
       "spDef": 110,
       "speed": 90
     }
@@ -198,7 +198,7 @@
     "id": 23,
     "codeName": "careful",
     "name": "@string/careful",
-    "effect": {
+    "effects": {
       "spDef": 110,
       "spAtk": 90
     }
@@ -207,6 +207,6 @@
     "id": 24,
     "codeName": "quirky",
     "name": "@string/quirky",
-    "effect": {}
+    "effects": {}
   }
 ]
