@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "codeName": "hardy",
+    "name": "@string/hardy",
+    "effect": {}
+  },
+  {
+    "id": 1,
+    "codeName": "lonely",
+    "name": "@string/lonely",
+    "effect": {
+      "atk": 110,
+      "def": 90
+    }
+  },
+  {
+    "id": 2,
+    "codeName": "brave",
+    "name": "@string/brave",
+    "effect": {
+      "atk": 110,
+      "speed": 90
+    }
+  },
+  {
+    "id": 3,
+    "codeName": "adamant",
+    "name": "@string/adamant",
+    "effect": {
+      "atk": 110,
+      "spAtk": 90
+    }
+  },
+  {
+    "id": 4,
+    "codeName": "naughty",
+    "name": "@string/naughty",
+    "effect": {
+      "atk": 110,
+      "spDef": 90
+    }
+  },
+  {
+    "id": 5,
+    "codeName": "bold",
+    "name": "@string/bold",
+    "effect": {
+      "def": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": 6,
+    "codeName": "docile",
+    "name": "@string/docile",
+    "effect": {}
+  },
+  {
+    "id": 7,
+    "codeName": "relaxed",
+    "name": "@string/relaxed",
+    "effect": {
+      "def": 110,
+      "speed": 90
+    }
+  },
+  {
+    "id": 8,
+    "codeName": "impish",
+    "name": "@string/impish",
+    "effect": {
+      "def": 110,
+      "spAtk": 90
+    }
+  },
+  {
+    "id": 9,
+    "codeName": "lax",
+    "name": "@string/lax",
+    "effect": {
+      "def": 110,
+      "spDef": 90
+    }
+  },
+  {
+    "id": 10,
+    "codeName": "timid",
+    "name": "@string/timid",
+    "effect": {
+      "speed": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": 11,
+    "codeName": "hasty",
+    "name": "@string/hasty",
+    "effect": {
+      "speed": 110,
+      "def": 90
+    }
+  },
+  {
+    "id": 12,
+    "codeName": "serious",
+    "name": "@string/serious",
+    "effect": {}
+  },
+  {
+    "id": 13,
+    "codeName": "jolly",
+    "name": "@string/jolly",
+    "effect": {
+      "speed": 110,
+      "spAtk": 90
+    }
+  },
+  {
+    "id": 14,
+    "codeName": "naive",
+    "name": "@string/naive",
+    "effect": {
+      "speed": 110,
+      "spDef": 90
+    }
+  },
+  {
+    "id": 15,
+    "codeName": "modest",
+    "name": "@string/modest",
+    "effect": {
+      "spAtk": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": 16,
+    "codeName": "mild",
+    "name": "@string/mild",
+    "effect": {
+      "spAtk": 110,
+      "def": 90
+    }
+  },
+  {
+    "id": 17,
+    "codeName": "quiet",
+    "name": "@string/quiet",
+    "effect": {
+      "spAtk": 110,
+      "speed": 90
+    }
+  },
+  {
+    "id": 18,
+    "codeName": "bashful",
+    "name": "@string/bashful",
+    "effect": {}
+  },
+  {
+    "id": 19,
+    "codeName": "rash",
+    "name": "@string/rash",
+    "effect": {
+      "spAtk": 110,
+      "spDef": 90
+    }
+  },
+  {
+    "id": 20,
+    "codeName": "calm",
+    "name": "@string/calm",
+    "effect": {
+      "spDef": 110,
+      "atk": 90
+    }
+  },
+  {
+    "id": 21,
+    "codeName": "gentle",
+    "name": "@string/gentle",
+    "effect": {
+      "spDef": 110,
+      "def": 90
+    }
+  },
+  {
+    "id": 22,
+    "codeName": "sassy",
+    "name": "@string/sassy",
+    "effect": {
+      "spDef": 110,
+      "speed": 90
+    }
+  },
+  {
+    "id": 23,
+    "codeName": "careful",
+    "name": "@string/careful",
+    "effect": {
+      "spDef": 110,
+      "spAtk": 90
+    }
+  },
+  {
+    "id": 24,
+    "codeName": "quirky",
+    "name": "@string/quirky",
+    "effect": {}
+  }
+]
