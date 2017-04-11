@@ -1,0 +1,71 @@
+
+.c-type {
+    display: inline-block;
+    font-size: 11px;
+    min-width: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    height: 18px;
+    border-radius: 9px;
+    border: 1px solid #656557;
+    box-shadow: 0 0 1px 1px #fff inset;
+    line-height: 16px;
+    text-shadow: 0 0 2px #656565;
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.c-types-table{
+    line-height: 1.5;
+    border: 2px solid #111;
+    background:darkgray;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+.c-types-table-head {
+  background-color: cadetblue;
+ }
+.c-types-table-left {
+    background-color: brown;
+}
+.c-types-table-normal {
+    background-color: whitesmoke;
+    color: black;
+}
+.c-types-table-half {
+    background-color: burlywood;
+}
+.c-types-table-zero {
+    background-color: indigo;
+}
+.c-types-table-double {
+    background-color: green;
+}
+
+.c-natures-table{
+    line-height: 1.5;
+    border: 2px solid #111;
+    background:darkgray;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border-radius: 7px;
+    text-align: center;
+    font-size: small;
+}
+.c-natures-table-down{
+    background-color: #0000CC;
+    color: white;
+}
+.c-natures-table-up{
+    background-color: #CC0033;
+    color: white;
+}
+.c-natures-table-normal {
+    background-color: whitesmoke;
+    color: black;
+}

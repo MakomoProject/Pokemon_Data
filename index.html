@@ -3,8 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>Pokemon Data</title>
+
+    <link rel="stylesheet" href="html/css/component.css">
+    <link rel="stylesheet" href="html/css/index.css">
+
+    <script src="html/js/vue-2.2.6/vue.min.js"></script>
+    <!--<script src="html/js/vue-2.2.6/vue.js"></script>-->
+
+    <script src="html/js/data.js"></script>
+    <script src="html/js/index.js"></script>
 </head>
 <body>
+<div id="wrapper">
+    <div id="background">
+        <div id="content">
+            <c-types-table id="c-types-table" :key="isUpdate" :types="types"
+                           :count="count" :get-effect="getEffect" :get-class="getClass">
+            </c-types-table>
 
+            <c-natures-table id="c-natures-table" :key="isUpdate" :natures="natures" :species="species"
+                             :get-name="getName" :get-effect="getEffect" :get-class="getClass">
+            </c-natures-table>
+        </div>
+    </div>
+</div>
 </body>
 </html>

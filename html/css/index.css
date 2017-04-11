@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper {
+    overflow-y: auto;
+    overflow-x: auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+#background {
+    background-color: rgba(250, 250, 250, 0.933333);
+    position: static;
+    width: 100%;
+}
+
+#content {
+    width: 1200px;
+    height: 100%;
+    /*border-style: solid;*/
+    /*border-color: #4a4a4a;*/
+    /*border-width: 2px;*/
+    margin: 0 auto;
+    text-align: left;
+}
