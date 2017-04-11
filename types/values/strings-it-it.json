@@ -1,0 +1,21 @@
+{
+	"unknown" : "???",
+    "normal": "Normale",
+    "fight": "Lotta",
+    "flying": "Volante",
+    "poison": "Veleno",
+    "ground": "Terra",
+    "rock": "Roccia",
+    "bug": "Coleottero",
+    "ghost": "Spettro",
+    "steel": "Acciaio",
+    "fire": "Fuoco",
+    "water": "Acqua",
+    "grass": "Erba",
+    "electr": "Elettro",
+    "psycho": "Psico",
+    "ice": "Ghiaccio",
+    "dragon": "Drago",
+    "dark": "Buio",
+    "fairy": "Folletto"
+}

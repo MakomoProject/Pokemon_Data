@@ -1,0 +1,273 @@
+{
+  "unknown": {
+    "id": -1,
+    "codeName": "unknown",
+    "name": "@string/unknown",
+    "color": "#68A090",
+    "effects": {}
+  },
+  "normal": {
+    "id": 0,
+    "codeName": "normal",
+    "name": "@string/normal",
+    "color": "#BBBBAA",
+    "effects": {
+      "rock": 50,
+      "ghost": 0,
+      "steel": 50
+    }
+  },
+  "fight": {
+    "id": 1,
+    "codeName": "fight",
+    "name": "@string/fight",
+    "color": "#BB5544",
+    "effects": {
+      "normal": 200,
+      "flying": 50,
+      "poison": 50,
+      "rock": 200,
+      "bug": 50,
+      "ghost": 0,
+      "steel": 200,
+      "psycho": 50,
+      "ice": 200,
+      "dark": 200,
+      "fairy": 50
+    }
+  },
+  "flying": {
+    "id": 2,
+    "codeName": "flying",
+    "name": "@string/flying",
+    "color": "#6699FF",
+    "effects": {
+      "fight": 200,
+      "rock": 50,
+      "bug": 200,
+      "steel": 50,
+      "grass": 200,
+      "electr": 50
+    }
+  },
+  "poison": {
+    "id": 3,
+    "codeName": "poison",
+    "name": "@string/poison",
+    "color": "#AA5599",
+    "effects": {
+      "poison": 50,
+      "ground": 50,
+      "rock": 50,
+      "ghost": 50,
+      "steel": 0,
+      "grass": 200,
+      "fairy": 200
+    }
+  },
+  "ground": {
+    "id": 4,
+    "codeName": "ground",
+    "name": "@string/ground",
+    "color": "#DDBB55",
+    "effects": {
+      "flying": 0,
+      "poison": 200,
+      "rock": 200,
+      "bug": 50,
+      "steel": 200,
+      "fire": 200,
+      "grass": 50,
+      "electr": 200
+    }
+  },
+  "rock": {
+    "id": 5,
+    "codeName": "rock",
+    "name": "@string/rock",
+    "color": "#BBAA66",
+    "effects": {
+      "fight": 50,
+      "flying": 200,
+      "ground": 50,
+      "bug": 200,
+      "steel": 50,
+      "fire": 200,
+      "ice": 200
+    }
+  },
+  "bug": {
+    "id": 6,
+    "codeName": "bug",
+    "name": "@string/bug",
+    "color": "#AABB22",
+    "effects": {
+      "fight": 50,
+      "flying": 50,
+      "poison": 50,
+      "ghost": 50,
+      "steel": 50,
+      "fire": 50,
+      "grass": 200,
+      "psycho": 200,
+      "dark": 200,
+      "fairy": 50
+    }
+  },
+  "ghost": {
+    "id": 7,
+    "codeName": "ghost",
+    "name": "@string/ghost",
+    "color": "#6666BB",
+    "effects": {
+      "normal": 0,
+      "ghost": 200,
+      "psycho": 200,
+      "dark": 50
+    }
+  },
+  "steel": {
+    "id": 8,
+    "codeName": "steel",
+    "name": "@string/steel",
+    "color": "#AAAABB",
+    "effects": {
+      "rock": 200,
+      "steel": 50,
+      "fire": 50,
+      "water": 50,
+      "electr": 50,
+      "ice": 200,
+      "fairy": 200
+    }
+  },
+  "fire": {
+    "id": 9,
+    "codeName": "fire",
+    "name": "@string/fire",
+    "color": "#FF4422",
+    "effects": {
+      "rock": 50,
+      "bug": 200,
+      "steel": 200,
+      "fire": 50,
+      "water": 50,
+      "grass": 200,
+      "ice": 200,
+      "dragon": 50
+    }
+  },
+  "water": {
+    "id": 10,
+    "codeName": "water",
+    "name": "@string/water",
+    "color": "#3399FF",
+    "effects": {
+      "ground": 200,
+      "rock": 200,
+      "fire": 200,
+      "water": 50,
+      "grass": 50,
+      "dragon": 50
+    }
+  },
+  "grass": {
+    "id": 11,
+    "codeName": "grass",
+    "name": "@string/grass",
+    "color": "#77CC55",
+    "effects": {
+      "flying": 50,
+      "poison": 50,
+      "ground": 200,
+      "rock": 200,
+      "bug": 50,
+      "steel": 50,
+      "fire": 50,
+      "water": 200,
+      "grass": 50,
+      "dragon": 50
+    }
+  },
+  "electr": {
+    "id": 12,
+    "codeName": "electr",
+    "name": "@string/electr",
+    "color": "#FFCC33",
+    "effects": {
+      "flying": 200,
+      "ground": 0,
+      "water": 200,
+      "grass": 50,
+      "electr": 50,
+      "dragon": 50
+    }
+  },
+  "psycho": {
+    "id": 13,
+    "codeName": "psycho",
+    "name": "@string/psycho",
+    "color": "#FF5599",
+    "effects": {
+      "fight": 200,
+      "poison": 200,
+      "steel": 50,
+      "psycho": 50,
+      "dark": 0
+    }
+  },
+  "ice": {
+    "id": 14,
+    "codeName": "ice",
+    "name": "@string/ice",
+    "color": "#77DDFF",
+    "effects": {
+      "flying": 200,
+      "ground": 200,
+      "steel": 50,
+      "fire": 50,
+      "water": 50,
+      "grass": 200,
+      "ice": 50,
+      "dragon": 200
+    }
+  },
+  "dragon": {
+    "id": 15,
+    "codeName": "dragon",
+    "name": "@string/dragon",
+    "color": "#7766EE",
+    "effects": {
+      "steel": 50,
+      "dragon": 200,
+      "fairy": 0
+    }
+  },
+  "dark": {
+    "id": 16,
+    "codeName": "dark",
+    "name": "@string/dark",
+    "color": "#775544",
+    "effects": {
+      "fight": 50,
+      "ghost": 200,
+      "psycho": 200,
+      "dark": 50,
+      "fairy": 50
+    }
+  },
+  "fairy": {
+    "id": 17,
+    "codeName": "fairy",
+    "name": "@string/fairy",
+    "color": "#FFAAFE",
+    "effects": {
+      "fight": 200,
+      "poison": 50,
+      "steel": 50,
+      "fire": 50,
+      "dragon": 200,
+      "dark": 200
+    }
+  }
+}
